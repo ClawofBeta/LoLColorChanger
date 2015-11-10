@@ -4,6 +4,8 @@ LoLColorChanger
 League of Legends Color Changer- PC Version
 Hi, this is Andrew Ou, also known as "ClawofBeta" or "Corn."
 
+Execute the jar file to run this.
+
 Does not currently work with patch 3.14
 
 Ever want to change the HP bar color of just your champion so you can spot it more clearly? Or your enemies? 
